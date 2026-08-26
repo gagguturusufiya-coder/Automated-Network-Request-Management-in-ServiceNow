@@ -1,7 +1,6 @@
 # Automated Network Request Management in ServiceNow
 
-![Uploading ChatGPT Image Aug 26, 2026, 10_57_34 AM.png…]()
-
+![Uploading automated-network-request-management.png…]()
 
 ## 1. Project Overview
 
