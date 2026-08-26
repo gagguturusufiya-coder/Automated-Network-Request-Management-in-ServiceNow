@@ -1,6 +1,6 @@
 # Automated Network Request Management in ServiceNow
 
-![Uploading image.png…]()
+
 
 ## 1. Project Overview
 
