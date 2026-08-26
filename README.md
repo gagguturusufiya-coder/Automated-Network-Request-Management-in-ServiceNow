@@ -1,7 +1,5 @@
 # Automated Network Request Management in ServiceNow
 
-![Uploading automated-network-request-management.png…]()
-
 
 ## 1. Project Overview
 
